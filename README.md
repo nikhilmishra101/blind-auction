@@ -1,0 +1,3 @@
+# blind-auction
+
+### Let's bid secretively and Let the heighest bid wins the race...
